@@ -22,7 +22,7 @@ jobs:
 
           base: header, activity, repositories
           base_indepth: yes
-
+          commits_authoring: AntonVolkov71
           repositories: 1000
           repositories_affiliations: owner, collaborator, organization_member
 
