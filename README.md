@@ -1,19 +1,24 @@
-### Hi there 👋
+# Anton Volkov
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonvolkov71)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonvolkov71)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**AntonVolkov71/AntonVolkov71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech Lead | Software Architecture | System Integration**
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Backend:** Java, Spring Boot, TypeScript, Node.js, NestJS
 
--->
+**Data & Messaging:** PostgreSQL, RabbitMQ, MQTT
+
+**Infrastructure:** Docker, Linux, Nginx, CI/CD
+
+**Architecture:** System Design, Microservices, DDD, C4, ADR
+
+### Areas of Interest
+
+- Software architecture and system design
+- Distributed systems and system integration
+- Reliability and observability
+- Architecture documentation and engineering practices
+
+### GitHub Statistics
+
+![GitHub Metrics](./github-metrics.svg)
