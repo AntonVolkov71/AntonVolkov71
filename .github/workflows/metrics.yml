@@ -34,5 +34,3 @@ jobs:
 
           config_timezone: Europe/Moscow
           output_action: commit
-          debug: yes
-          plugins_errors_fatal: yes
